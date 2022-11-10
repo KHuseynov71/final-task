@@ -1,0 +1,40 @@
+#we-info{
+    margin-top: 200px;
+    .container{
+        width: 1140px;
+        align-self: center;
+        margin-bottom: auto;
+    }
+    .row{
+        
+        h2{
+            font-weight: 400;
+            font-size: 28px;
+            color: #1E3056;
+            line-height: 46px;
+            margin-bottom: 20px;
+            span{
+                color: #585CE9;
+            }
+        }
+        p{
+            margin-bottom: 40px;
+        }
+        a{
+            text-decoration: none;
+            display: inline-block;
+            line-height: 44px;
+            text-align: center;
+            border-radius: 5px;
+            background: #585CE9;
+            height: 44px;
+            width: 160px;
+            font-weight: 700;
+            font-size: 12px;
+            color: #fff;
+        }
+        // .images-one{
+            
+        // }
+    }
+}

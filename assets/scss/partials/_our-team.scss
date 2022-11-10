@@ -1,0 +1,67 @@
+#our-team {
+    padding-bottom: 80px;
+    padding-top: 80px;
+
+    .row {
+        .title {
+            text-align: center;
+
+            h2 {
+                font-weight: 400;
+                font-size: 28px;
+                color: #3B566E;
+                line-height: 38px;
+                margin-bottom: 20px;
+            }
+        }
+
+        .text {
+            text-align: center;
+            font-weight: 400;
+            font-size: 16px;
+            color: #6F8BA4;
+            line-height: 28px;
+            letter-spacing: 1px;
+            margin-bottom: 50px;
+        }
+    }
+
+    .card-row {
+        .card-personal {
+            background: #fff;
+            border-radius: 5px;
+            position: relative;
+            margin-bottom: 55px;
+
+            .card-content {
+                text-align: center;
+
+                .information {
+                    margin-top: 0px;
+                    margin-bottom: 30px;
+                    padding-top: 10px;
+                    padding-bottom: 10px;
+                    
+
+                    h3 {
+                        display: block;
+                        font-weight: 400;
+                        font-size: 16px;
+                        color: #fff;
+                        margin-top: 5px;
+                        position: relative;
+                    }
+
+                    span {
+                        display: block;
+                        font-weight: 400;
+                        font-size: 12px;
+                        color: #E5E9F7;
+                        position: relative;
+                    }
+                }
+            }
+        }
+
+    }
+}
